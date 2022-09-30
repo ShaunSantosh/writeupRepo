@@ -17,4 +17,4 @@ Once you find *.backup* `cd` in and `ls` again to find *bookmarks.html*. `cat` t
 ```cat bookmarks.html | grep leviathan```
 
 ### Password
-rioGegei8m
+PPIfmI1qsA
