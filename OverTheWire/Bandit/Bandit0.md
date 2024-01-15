@@ -13,8 +13,10 @@ We just need to connect to a host using SSH with the following credentials,
 
 **Password**: bandit0
 
-Note: When already connected to *bandit.labs.overthewire.org* we can just change user for the *localhost* like so,   
-```ssh bandit1@localhost``` 
+~~Note: When already connected to *bandit.labs.overthewire.org* we can just change user for the *localhost* like so,   ~~  
+~~```ssh bandit1@localhost``` ~~  
+
+Looks like connecting from *localhost* is now blocked to conserve resources so the above will no longer work
 
 ## Commands
 ```ssh bandit0@bandit.labs.overthewire.org -p 2220```
